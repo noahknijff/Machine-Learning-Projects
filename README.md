@@ -7,18 +7,19 @@ This repository contains a collection of some of my own Machine Learning project
 - **Notebooks:**
   - DMT_Group_157_Assignment_1.ipynb – A group project on data mining techniques, including preprocessing and analysis of a class room google-form submitted dataset.
 
-  - exploratory_data_analysis.ipynb – A project 
+  - exploratory_data_analysis.ipynb – A project in which I perform exploratory data analysis, and cleaning based on a dataset, containing a synthetic representation of space missions
 
+  - regression.ipynb – A project in which I perform exploratory data analysis, and cleaning based on a dataset, containing a synthetic representation of space missions
 
 ## Python Packages Used:
 - **NumPy**
 - **SciPy**
 - **Pandas**
 - **Matplotlib**
+- **Seaborn**
 - **Scikit-Learn**
-- **Math**
+- **TensorFlow**
 - **Re**
 - **Random**
 - **Datetime**
-- **Mesa**
-- **Rebound**
+
