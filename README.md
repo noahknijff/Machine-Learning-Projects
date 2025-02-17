@@ -9,7 +9,8 @@ This repository contains a collection of some of my own Machine Learning project
 
   - exploratory_data_analysis.ipynb – A project in which I perform exploratory data analysis, and cleaning based on a dataset, containing a synthetic representation of space missions
 
-  - regression.ipynb – A project in which I perform exploratory data analysis, and cleaning based on a dataset, containing a synthetic representation of space missions
+  - regression.ipynb – A project in which I predict laptop prices on a hold-out set performing regression, cross validation, and feature selection.
+ 
 
 ## Python Packages Used:
 - **NumPy**
