@@ -10,6 +10,8 @@ This repository contains a collection of some of my own Machine Learning project
   - exploratory_data_analysis.ipynb – A project in which I perform exploratory data analysis, and cleaning based on a dataset, containing a synthetic representation of space missions
 
   - regression.ipynb – A project in which I predict laptop prices on a hold-out set performing regression, cross validation, and feature selection.
+  - classification.ipynb - A project in which wine classification (white/red) is predicted based on chemical properties, using various classification algorithms.
+  - customer_segmentation.ipynb - A project in which mall customers are segmented into groups based on their spending behavior and demographics, using various clustering algorithms
  
 
 ## Python Packages Used:
