@@ -3,7 +3,6 @@
 
 This repository contains a collection of some of my own Machine Learning projects and some ML assignments from my Master's at the University of Amsterdam in Computational Science.
 
-- **Description:** This section contains projects on data cleaning, clustering, and classification. The notebooks demonstrate techniques for handling class room google-form submitted datasets and extracting useful insights.
 - **Notebooks:**
   - DMT_Group_157_Assignment_1.ipynb – A group project on data mining techniques, including preprocessing and analysis of a class room google-form submitted dataset.
 
